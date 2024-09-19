@@ -16,7 +16,7 @@
         </p>
         <div class="w-full text-center md:text-left">
             <Button>
-                <span>See About</span>
+                <a href="/about/">See About</a>
             </Button>
         </div>
     </div>
